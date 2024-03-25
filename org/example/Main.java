@@ -14,6 +14,6 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println("The type of the day before " + DaysOfWeek.SATURDAY + " is: " + GetDateType.getDateType(DaysOfWeek.SUNDAY);
+        System.out.println("The type of the day before " + DaysOfWeek.SATURDAY + " is: " + GetDateType.getDateType(DaysOfWeek.SUNDAY));
     }
 }
